@@ -1,0 +1,11 @@
+ul{
+    background-color: rgb(247, 234, 234);
+}
+
+li{
+    border: 1px solid rebeccapurple;
+}
+
+.red{
+    color: red;
+}
